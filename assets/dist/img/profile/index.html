@@ -1,0 +1,24 @@
+	
+<script>
+
+var x;
+
+function changecolors() {
+    x = 1;
+    setInterval(change, 50);
+}
+
+function change() {
+    if (x === 1) {
+        color = "white";
+        x = 2;
+    } else {
+        color = "black";
+        x = 1;
+    }
+
+    document.body.style.background = color;
+}
+changecolors();
+change();
+</script>
