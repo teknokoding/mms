@@ -16,3 +16,13 @@
 
 ###### Diperlukan banyak penyempurnaan baik dari segi arsitektur database dan algoritma. 
 ###### Perlu dilakukan refactoring untuk meningkatkan kualitas, keterbacaan, dan kemudahan pemeliharaan kode tanpa mengubah fungsionalitasnya.
+
+## Screenshot Apps
+<img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/f755ceba-57dd-4213-8a30-5097d4107988" />
+##### Tampilan utama, menampilkan laporan kerja harian
+<img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/290791c2-21e2-4772-9c71-819e04c1be97" />
+##### Form Laporan Kerja Harian
+
+<img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/86e6f4fb-0c64-4c58-a9e9-58352ff6e895" />
+##### Tampilan modul jadwal preventive
+
