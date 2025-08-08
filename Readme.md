@@ -13,10 +13,10 @@
     sql_mode = "STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"
 
     Parameter diatas dibutuhan untuk query "GROUP BY" agar bisa mode "FULL GROUP"
-<span style="color: red;">
+<font color="red">
 Diperlukan banyak penyempurnaan baik dari segi arsitektur database dan algoritma. 
 Perlu dilakukan refactoring untuk meningkatkan kualitas, keterbacaan, dan kemudahan pemeliharaan kode tanpa mengubah fungsionalitasnya.
-</span>
+</font>
 ## Screenshot Apps
 
 <h5>Tampilan utama, menampilkan laporan kerja harian</h5><img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/f755ceba-57dd-4213-8a30-5097d4107988" />
