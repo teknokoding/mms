@@ -15,4 +15,4 @@
     Parameter diatas dibutuhan untuk query "GROUP BY" agar bisa mode "FULL GROUP"
 
 ###### Diperlukan banyak penyempurnaan baik dari segi arsitektur database dan algoritma. 
-###### Perlu dilakukan refactoring meningkatkan kualitas, keterbacaan, dan kemudahan pemeliharaan kode tanpa mengubah fungsionalitasnya.
+###### Perlu dilakukan refactoring untuk meningkatkan kualitas, keterbacaan, dan kemudahan pemeliharaan kode tanpa mengubah fungsionalitasnya.
