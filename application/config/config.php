@@ -27,8 +27,7 @@ date_default_timezone_set("Asia/Jakarta");
 $config['base_url'] = (isset($_SERVER['HTTPS']) ? "https://" : "http://").$_SERVER['HTTP_HOST'].
 						str_replace(basename($_SERVER['SCRIPT_NAME']),"",
 						$_SERVER['SCRIPT_NAME']);
-//$config['base_url'] = "http://localhost:8080";
-//$config['base_url'] = "http://mms.scriptnesia.com";
+
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -328,7 +327,7 @@ $config['cache_query_string'] = FALSE;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = 'aptaparamasoftware';
+$config['encryption_key'] = 'teknokoding.com';
 
 /*
 |--------------------------------------------------------------------------
